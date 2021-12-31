@@ -1,0 +1,53 @@
+<ticTacToe>
+  <board>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+  </board>
+  <board>
+    <row>
+      <column value="X"/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+  </board>
+  <board>
+    <row>
+      <column value="X"/>
+      <column value="O"/>
+      <column value=" "/>
+    </row>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+    <row>
+      <column value=" "/>
+      <column value=" "/>
+      <column value=" "/>
+    </row>
+  </board>
+</ticTacToe>

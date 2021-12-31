@@ -1,0 +1,9 @@
+<ticTacToe>
+  <put row="0" column="0"/>
+  <put row="0" column="1"/>
+
+  <move>  
+    <delete row="x" column="x"/>
+    <put row="x" column="x"/>
+  </move>
+</ticTacToe>
